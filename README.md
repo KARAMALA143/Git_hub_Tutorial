@@ -1,2 +1,2 @@
-# Git_hub_Tutorial
-Trying to learn basics of Git-hub
+# Git_Tutorial
+Trying to learn basics of Git and Git-hub
